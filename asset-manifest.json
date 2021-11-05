@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/KOS-frontend/static/css/main.1b92d16a.chunk.css",
+    "main.js": "/KOS-frontend/static/js/main.7279fe48.chunk.js",
+    "main.js.map": "/KOS-frontend/static/js/main.7279fe48.chunk.js.map",
+    "runtime-main.js": "/KOS-frontend/static/js/runtime-main.f9d989a7.js",
+    "runtime-main.js.map": "/KOS-frontend/static/js/runtime-main.f9d989a7.js.map",
+    "static/js/2.146f70ca.chunk.js": "/KOS-frontend/static/js/2.146f70ca.chunk.js",
+    "static/js/2.146f70ca.chunk.js.map": "/KOS-frontend/static/js/2.146f70ca.chunk.js.map",
+    "index.html": "/KOS-frontend/index.html",
+    "static/css/main.1b92d16a.chunk.css.map": "/KOS-frontend/static/css/main.1b92d16a.chunk.css.map",
+    "static/js/2.146f70ca.chunk.js.LICENSE.txt": "/KOS-frontend/static/js/2.146f70ca.chunk.js.LICENSE.txt",
+    "static/media/badge.ee69eb2e.png": "/KOS-frontend/static/media/badge.ee69eb2e.png",
+    "static/media/domain.b39497c3.png": "/KOS-frontend/static/media/domain.b39497c3.png",
+    "static/media/idea.9cdf6c29.png": "/KOS-frontend/static/media/idea.9cdf6c29.png",
+    "static/media/searching.61418d41.png": "/KOS-frontend/static/media/searching.61418d41.png",
+    "static/media/text.2ed2a583.png": "/KOS-frontend/static/media/text.2ed2a583.png",
+    "static/media/world.775694a2.png": "/KOS-frontend/static/media/world.775694a2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9d989a7.js",
+    "static/js/2.146f70ca.chunk.js",
+    "static/css/main.1b92d16a.chunk.css",
+    "static/js/main.7279fe48.chunk.js"
+  ]
+}
