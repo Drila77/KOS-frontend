@@ -1,0 +1,64 @@
+.App{
+  margin:5% 0;
+  padding:0 12.5%;
+  display: flex; //default value of flex-direction is row
+  justify-content: space-between; //allows space between items
+  flex-wrap: wrap; //depending on item’s width, it allows more than a row
+  .list{
+      width: 28%; //100%:28%=3.57, it means only 3 items will show in a row
+           //28*3=84, 16% are available for spaces, 
+     //there are 2 spaces, 8% for each
+padding:20px 25px; 
+      margin:15px 0;
+  }
+}
+
+@media(max-width:767px){        
+  .App{
+      margin:20px 0;
+      padding:0 8.5%;
+      .list{
+          width: 47.5%;
+          padding:15px 20px;
+          margin:10px 0;
+      }
+  }
+}
+
+@media(max-width:475px){
+  .App{
+      .list{
+          width: 100%;
+      }
+  }
+}
+
+
+
+ 
+
+
+
+
+.Images {
+  width: 2.5rem;
+  margin-top: 2.5rem;
+}
+
+.Text {
+   margin-left: 2rem;
+}
+
+
+
+.list {
+  display: flex;
+  
+}
+
+
+
+
+
+
+
